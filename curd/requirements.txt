@@ -1,0 +1,5 @@
+# Requirements for FastAPI CRUD application
+fastapi
+uvicorn
+httpx
+pytest
